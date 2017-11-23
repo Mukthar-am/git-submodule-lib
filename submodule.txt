@@ -5,3 +5,5 @@ this is a submodule
 = Changed from parent-submodule sub-structure
 
 - changes # 3
+
+- change # 4
