@@ -1,3 +1,5 @@
 this is a submodule
 
 # changed explicitly at sub-module code base
+
+= Changed from parent-submodule sub-structure
